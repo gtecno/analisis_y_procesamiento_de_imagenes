@@ -37,22 +37,27 @@ Tornillos (Perno) cabeza Hexagonal rosca fina 3/8”
 ## Distribución de los datos compartidos en el repositorio
 
 1.  Realce de imagen
+   
    ![image](https://github.com/user-attachments/assets/72324364-2ee1-490c-bb78-7f8e08ecb384)
 
 2.  Segmentación y Morfología de imagen
+   
      ![image](https://github.com/user-attachments/assets/f689328d-7637-4143-8d40-f5b4c980e02b)
 
 3.  Reconocimento de patrones y Caracteristicas de imagen
+ 
     ![image](https://github.com/user-attachments/assets/8fa514c7-f985-4cc8-aeba-e932b3842b30)
 
-    Reconocimiento de patrones se basó en procesamiento de la imagén y extración del área de mayor valumen para proceder con la extración de las caracterisiticas del objecto principal de estudio.
+    Reconocimiento de patrones se basó en procesamiento de la imagén y extración del área de mayor valumen para proceder con la extración de las caracterisiticas 
+    del objecto principal de estudio.
 
     Nota:  En este directorio se encuentras dos directorios para el caso de la creación de los dataset.
            * entrenamiento  -> 50 imagenes
            * prueba         -> 30 imagenes  
     Cabe resaltar que en la carpeta de prueba se eliminaron 20 imagenes repetidas y que estaban causando problemas al obtener el dataset de pruebas.
     
-5.  Aprendizaje de Maquina
+4.  Aprendizaje de Maquina
+
    ![image](https://github.com/user-attachments/assets/a21e9fbf-e3c8-4351-9f40-219e73d99479)
 
      DataSets:
@@ -61,7 +66,7 @@ Tornillos (Perno) cabeza Hexagonal rosca fina 3/8”
 
      Para el caso de Aprendizaje Machina se implementó un modelo con Random Forest y otro con redes Neuronales
 
-6.  Presentación del Proyecto de procesameinto de imagenes en formato pptx
+5.  Presentación del Proyecto de procesameinto de imagenes en formato pptx
   5.1 Contiene la description de cada uno de los pasos para llevar a cabo el aálisis de las imagenes.
 
 
