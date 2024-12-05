@@ -71,7 +71,9 @@ Tornillos (Perno) cabeza Hexagonal rosca fina 3/8”
 
 
 
-# Nota : La base de datos de imagens para este trabajo se encuntra disponible en el directorio /3_Reconocimiento_patrones_y_caracteristicas/ , hay dos directorios entrenamiento y prueba allí está subida la BD.
+# Nota : La base de datos de imagens para este trabajo se encuntra disponible en el directorio /3_Reconocimiento_patrones_y_caracteristicas/
+# entrenamiento  
+# prueba 
 
 Gracias.
        
