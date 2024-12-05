@@ -23,15 +23,25 @@ Cáncamos =  5 unidades
 
 # Clases de elementos del dataset suministrado
 Tuercas
+
 Arandelas
+
 Cancamos
+
 Puntillas 1”
+
 Puntillas ½”
+
 Puntillas 2”
+
 Tornillos cabeza plana y punta fina 2” ranura Phillips
+
 Tornillos cabeza plana y punta fina ½” ranura Phillips
+
 Tornillos cabeza plana y punta fina ¼” ranura Phillips
-Tornillos (Perno) cabeza Hexagonal rosca fina 3/8”  
+
+Tornillos (Perno) cabeza Hexagonal rosca fina 3/8”
+
 
 
 ## Distribución de los datos compartidos en el repositorio
